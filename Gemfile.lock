@@ -52,7 +52,7 @@ GEM
     minitest (5.22.3)
     mutex_m (0.2.0)
     netrc (0.11.0)
-    optimist (3.1.0)
+    optimist (3.2.0)
     parallel (1.24.0)
     parser (3.3.0.5)
       ast (~> 2.4.1)
@@ -118,7 +118,7 @@ GEM
       simplecov_json_formatter (~> 0.1)
     simplecov-html (0.12.3)
     simplecov_json_formatter (0.1.4)
-    super_diff (0.11.0)
+    super_diff (0.15.0)
       attr_extras (>= 6.2.4)
       diff-lcs
       patience_diff
@@ -144,7 +144,7 @@ DEPENDENCIES
   rubocop-rails (= 2.24.1)
   selenium-webdriver (= 4.19.0)
   simplecov (= 0.22.0)
-  super_diff (= 0.11.0)
+  super_diff (= 0.15.0)
 
 BUNDLED WITH
    2.5.6
